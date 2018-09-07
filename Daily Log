@@ -1,0 +1,82 @@
+==27-06-2018==
+Worked on how to visualize a graph on a html view.
+==28-06-2018==
+Still working on the graph visualization.
+==29-06-2018==
+Made an appointment and went to meet Dr.Dharshana Sir to clear some doubts about building the ontology models.
+==30-06-2018==
+Still working on the graph visualization part and added nodes and relationships of the document "Sri Lanka apparel exports fall in April".
+==01-07-2018==
+Still working on the graph visualization part.
+==02-07-2018==
+Still working on the graph visualization part. Added api method to get database as a json object and working on mapping the json object to the angular frontend.
+==03-07-2018==
+Still working on the graph visualization part.
+==04-07-2018==
+Still working on the graph visualization part.
+==05-07-2018==
+Still working on the graph visualization part.
+==06-07-2018==
+Went to the routine supervisor meeting with Dr.Dharshana Sir. Succeeded in visualizing the graph.
+==07-07-2018==
+Working on designing the admin UI 
+==08-07-2018==
+Attended lectures 
+==09-07-2018==
+Developed the API methods for filtering and returning the database(nodes and relationships) and only nodes by the domain. Still working on designing the admin UI.
+==10-07-2018==
+Fixed some issues with the admin UI.
+==11-07-2018==
+Changed some aspects in the UI.
+==12-07-2018==
+Working on how to show the relevant ontology when an ontology is selected from the dropdown.
+==13-07-2018==
+Still working on filtering and showing the ontology.
+==14-07-2018==
+Working on how to dynamically add textfields using typescript. Went to the routine supervisor meeting with Dr.Dharshana Sir.
+==15-07-2018==
+Attended lectures.
+==16-07-2018==
+Completed filtering and showing the ontologies and adding dynamic textfields.
+==17-07-2018==
+Working on implementing post methods from the frontend using typescript.
+==18-07-2018==
+Finished implementing post methods.
+==19-07-2018==
+Implemented some backend API methods.
+==20-07-2018==
+Trying to fix real time graph not reloading problem and few compilation errors in the front end.
+==21-07-2018==
+Went to the regular supervisor meeting with Dr.Dharshana sir.
+==22-07-2018==
+Went to lectures.
+==23-07-2018==
+Still trying to fix real time graph not reloading problem and few compilation errors in the front end.
+==24-07-2018==
+Still trying to fix real time graph not reloading problem and few compilation errors in the front end.
+==25-07-2018==
+Succeeded in fixing both of the errors in the front end.
+==26-07-2018==
+Fixed some issues in the backend.
+==27-07-2018==
+Configured an aws server instance to deploy the backend to the elastic beanstalk. Deployed the backend in elastic beanstalk and front end to a s3 bucket.
+==28-07-2018==
+Went to lectures and had the regular supervisor meeting with Dr.Dharshana sir.
+==29-07-2018==
+Attended lectures full day.
+==30-07-2018==
+Did some modifications in the backend and redeployed the backend.
+==31-07-2018==
+Did some modifications in the frontend and redeployed the frontend.
+==01-08-2018==
+Fixed some validation issues in both frontend and backend.
+==02-08-2018==
+Worked on writing the research paper.
+==03-08-2018==
+Worked on writing the research paper.
+==04-08-2018==
+Worked on writing the research paper.
+==05-08-2018==
+Attended lectures full day.
+==06-08-2018==
+Went to meet Dr.Dharshana sir to clear some issues and due to inability to attend the supervisor meeting on wednesday 08-08-2018.
